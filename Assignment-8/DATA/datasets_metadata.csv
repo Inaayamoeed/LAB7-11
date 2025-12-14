@@ -1,0 +1,5 @@
+id,name,source,category,size
+1,Customer Records,System Export,PII,2048
+2,Firewall Logs,Security Gateway,Logs,512
+3,Malware Samples,Threat Intel,Security,10240
+4,Employee Directory,HR System,Internal,1024

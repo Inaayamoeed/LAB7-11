@@ -1,0 +1,5 @@
+id,title,severity,status,date
+1,Phishing email detected,low,open,2023-01-05
+2,Malware infection on workstation,high,resolved,2023-02-12
+3,Unauthorized access attempt,medium,open,2023-03-01
+4,Data breach reported,critical,resolved,2023-04-10

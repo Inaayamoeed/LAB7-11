@@ -1,0 +1,2 @@
+username,password_hash,role
+alice,$2b$12$ptRAd8mAx6hXvnaNDaUYN.L7lerHi4owPWNA.0/fB2XZ6dUgU2zyw,admin
