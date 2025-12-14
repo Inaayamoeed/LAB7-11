@@ -1,0 +1,5 @@
+id,title,priority,status,created_date
+1,Reset password request,low,open,2023-01-07
+2,Network outage on floor 2,critical,resolved,2023-02-20
+3,Printer malfunction in office 5,medium,open,2023-03-11
+4,New laptop setup request,low,resolved,2023-04-02
